@@ -1,0 +1,19 @@
+Lecture - ( Vectors in C++ )
+
+-> Vectors look same like as an array
+-> They are dynamic in nature mean size is not fixed
+-> STL is Standard Template Library in which some code of these datastructures is already implemented.
+Like :- stack , queue etc 
+-> From this library we pick these already implemented datastructure as a tool and then we use that in our code.
+-> Vector is also a tool whose implementation is already done in STL.
+-> All these datastructures are known as STL containers whose implementation is already done in STL
+-> To access vector values
+for(auto v : vec) then print v
+This will work as a foreach loop for a vector , Here above v will stored values not a index like for loop 
+
+Vectors Functions :- These we use to perform some kind of operations
+size , push_back , pop_back , front , back , at
+
+
+
+
